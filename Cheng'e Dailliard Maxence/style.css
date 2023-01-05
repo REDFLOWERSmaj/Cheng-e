@@ -1,0 +1,110 @@
+body {
+    background: rgb(115, 133, 133);
+
+}
+h1 {
+  color: #ffffff;
+  text-shadow: 0 0 20px #dd4646, 0 0 20px #dd4646, 0 0 20px #dd4646, 0 0 20px #dd4646;
+}
+h2 {
+  color: #294372;
+}
+
+.bottombar {
+    position:fixed;
+    background-color: #252525;
+    align-items: center;
+    bottom: 0;
+    width: 100%;
+    left: 0%
+  }
+  .bottombar p {
+    font-family: 'VT323', monospace;
+    line-height: 17.5px;
+    color: #dd4646;
+    text-align: center;
+    display: block;
+    margin: 10px;
+    font-size: 22.5px;
+  }
+  .bottombar a {
+    font-family: Calibri;
+    font-size: 15px;
+    color: #c4da47;
+    text-decoration: none;
+  }
+  .container {
+    width: 700px;
+    margin: 0px auto;
+    height: 400px;
+  }
+  .container-2 {
+    width: 700px;
+    margin: 0px auto;
+    height: 800px;
+  }
+  .container-3 {
+    width: 700px;
+    margin: 0px auto;
+    height: 300px;
+  }
+  .container-4 {
+    width: 700px;
+    height: 300px;
+    margin: 0px 100px;
+  }
+  .block-1 {
+    margin-top: 20px;
+    bottom: 0;
+    background-color: #6f6f6f;
+    box-shadow: 0px 10px 30px rgba(0.5,0,0,1);
+    border-radius: 4px;
+    margin: 20px 0px;
+    padding: 30px;
+    text-align: center;
+  }
+  .block-2 {
+    bottom: 0;
+    background-color: #6f6f6f;
+    box-shadow: 5px 10px 30px #dd4646;
+    border-radius: 4px;
+    margin: 20px 0px;
+    padding: 30px;
+    text-align: center;
+  }
+  .block-3 {
+    bottom: 0;
+    background-color: #6f6f6f;
+    box-shadow: 5px 10px 30px #294372;
+    border-radius: 4px;
+    margin: 20px 0px;
+    padding: 30px;
+    text-align: center;
+  }
+  .block-4 {
+    bottom: 0;
+    background-color: #6f6f6f;
+    box-shadow: 5px 10px 30px #c4b10d;
+    border-radius: 4px;
+    margin: 20px 0px;
+    padding: 30px;
+    text-align: right;
+  }
+    #introduction p {
+    margin-bottom: 30px;
+  }
+  .HOME {
+    position:fixed;
+    align-items: left;
+    margin: 0px 0px;
+  }
+  .btn-blue {
+    background-color: rgb(115, 133, 133);
+    color: rgb(0, 0, 0);
+    padding: 15px 20px;
+    border-radius: 4px;
+    font-family: 'VT323', monospace;
+  }
+ .sources a {
+  color: #c4b10d
+ }
